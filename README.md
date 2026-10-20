@@ -38,7 +38,7 @@ Ravio bypasses traditional locked-down streaming environments. By combining ligh
 
 ## 📥 How to Install
 1. Go to the [**Official Website**](https://raviomusic.github.io) or the [**Releases Tab**](https://github.com/raviomusic/raviomusic.github.io/releases/latest).
-2. Download the latest `Ravio.apk` (v1.1.0).
+2. Download the latest `Ravio.apk` (v1.1.1).
 3. Open the file on your Android device and tap **Install** (if prompted, allow installs from unknown sources in your browser settings).
 
 <br>
